@@ -16,7 +16,7 @@ Finally an app token, also a license is recommneded. Once logged on, look for th
 For more API use cases you can visit: 
 https://integrate.teamviewer.com/en/index.aspx
 
-Please not that I'm not a developer, I'm using official documentation from TeamViewer API Manual:
+Please note that I'm not a developer, I'm using official documentation from TeamViewer API Manual:
 http://download.teamviewer.com/integrate/TeamViewer_API_Documentation.pdf
 
 I would like for anyone interested in this project to share their thoughts and ideas. For exmaple using the API calls you can automate certian tasks like mass add/delete and modify groups, users, computers and connections.
