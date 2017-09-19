@@ -20,3 +20,6 @@ Please note that I'm not a developer, I'm using official documentation from Team
 http://download.teamviewer.com/integrate/TeamViewer_API_Documentation.pdf
 
 I would like for anyone interested in this project to share their thoughts and ideas. For exmaple using the API calls you can automate certian tasks like mass add/delete and modify groups, users, computers and connections.
+
+
+**Note You need python 3.5 and have request installed. 
